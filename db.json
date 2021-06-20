@@ -1,0 +1,90 @@
+{
+  "registrations": {
+    "private_token": "fMZlAR6RY9uJ0xM01F6md2eSsXwswy7dhU9fsiSWg6E",
+    "profile": ""
+  },
+  "upload_tokens": {
+    "bucket": "tcv-dev-private",
+    "code": 0,
+    "key": "axa_claim/52ba76c0-32f8-0139-1a54-1e3056b8d114/Inpatient.jpg",
+    "token": "mTLL_0hhI0W7AJfusrKSEVvJ-NHpbTQBmYUN063R:GX5yRsAQxMcg4rdjugI9Cq4sq0g=:eyJzY29wZSI6InRjdi1kZXYtcHJpdmF0ZT"
+  },
+  "insurance": {
+    "claim_id": 500502,
+    "claim_status": "reviewing_claim",
+    "tp_claim_type": null,
+    "claim_identifier": "CV00500502",
+    "created": "2021-01-07",
+    "signature": "axa_claim/2e80b600-32f9-0139-1a54-1e3056b8d114/signature.png",
+    "notice": "test",
+    "comments": [],
+    "user_id": 76141,
+    "recorded_type": "CARE_VOICE_APP",
+    "insurance_policy_id": 21246,
+    "person_insured": {
+      "name": "Gracie Group",
+      "phone": "13920201125",
+      "birthday": "2000-01-01",
+      "email": "",
+      "gender": "未公开",
+      "country_code": "86",
+      "id_type": "",
+      "id_number": "B2****101"
+    },
+    "policy_holder": {
+      "name": "Group___creating",
+      "phone": "13133131",
+      "address": "Shanghai",
+      "country_code": null,
+      "id_type": null,
+      "id_number": "G0000004"
+    },
+    "claim_type": "outpatient",
+    "total_amount": 1221,
+    "provider": {
+      "name": "呃呃呃呃",
+      "phone": null,
+      "address": null,
+      "country_code": null,
+      "doctor_name": null
+    },
+    "diagnosis_info": null,
+    "relate_claims": [
+      {
+        "claim_identifier": "",
+        "claim_relationship": "prior",
+        "created": "2021-01-07",
+        "insurance_name": ""
+      }
+    ],
+    "attachments": [
+      {
+        "type": "FB",
+        "resource_ref": "axa_claim/52ba76c0-32f8-0139-1a54-1e3056b8d114/Inpatient.jpg"
+      }
+    ],
+    "payee": {
+      "payee_name": "1",
+      "bank_name": "1",
+      "bank_account": "1",
+      "bank_branch": "1",
+      "claim_currency": "USD",
+      "country": null,
+      "city": null,
+      "iban_code": null,
+      "swift_code": null,
+      "bank_code": null,
+      "bank_branch_code": null
+    },
+    "currency": "USD",
+    "submit_date": null,
+    "process_date": null,
+    "payment_date": null,
+    "approved_total_amount": null,
+    "pay_amount": null,
+    "settings": null,
+    "has_memo": false,
+    "last_update": null,
+    "sub_claims": null
+  }
+}
